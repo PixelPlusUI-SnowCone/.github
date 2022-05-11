@@ -1,4 +1,4 @@
-![Source Code](https://i.imgur.com/G2T2nFb.jpg)
+![Source Code](https://i.imgur.com/dPDUgPD.png)
 
 ### Welcome to the PixelPlusUI /////////////// [![Download PixelPlusUI](https://img.shields.io/sourceforge/dt/pixelplusui-project.svg)](https://ppui.site/download)
 
